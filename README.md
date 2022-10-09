@@ -8,6 +8,11 @@ Air pollution represents a serious environmental problem. Each year, millions pr
 
 
 Air patrol solves all these problem, it's an android app that tells all the weather forecasts as well as the air quality of his/her surroundings.
+The app uses a very dynamic Machine Learning model to predict accurate value of the air quality index to keep you aware and safe.
+It works on all the android mobiles and tablets.
+
+
+
 
 Screenshots of the App
 
